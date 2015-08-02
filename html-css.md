@@ -4,10 +4,7 @@ HTML is the markup language for displaying web pages and other information that 
 
 ## Beginning HTML & CSS
 
-* Read [HTML and CSS: Design and Build Websites](http://amzn.com/1118008189)
-* Read [A Beginner’s Guide to HTML & CSS](http://learn.shayhowe.com)
-* Read [Bulletproof Web Design: Improving flexibility and protecting against worst-case scenarios with HTML5 and CSS3 for an introduction to HTML and CSS](http://amzn.com/0321808355)
-* Complete [Code Academy Web Fundamentals](http://www.codecademy.com/tracks/web)
+* Complete [Treehouse's How to Make a Website](teamtreehouse.com/library/how-to-make-a-website)
 
 ### You should be able to
 

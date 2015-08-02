@@ -4,6 +4,7 @@ A distributed revision control and source code management system with an emphasi
 
 ## Beginning Git
 
+* Complete [Treehouse's Git Basics](http://teamtreehouse.com/library/git-basics)
 * [Try Git](http://try.github.com)
 * Complete [Git Branching interactive tutorial](http://pcottle.github.com/learnGitBranching)
 * Watch the [Normal Workflow gitcast](http://www.youtube.com/watch?v=U1ayH6KLqxo)
