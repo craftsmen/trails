@@ -6,7 +6,8 @@ A distributed revision control and source code management system with an emphasi
 
 * Complete [Treehouse's Git Basics](http://teamtreehouse.com/library/git-basics)
 * [Try Git](http://try.github.com)
-* Complete [Git Branching interactive tutorial](http://pcottle.github.com/learnGitBranching)
+* Complete the levels 1, 2 and 3 from "the Introduction Sequence" of
+  [Git Branching interactive tutorial](http://pcottle.github.com/learnGitBranching)
 * Watch the [Normal Workflow gitcast](http://www.youtube.com/watch?v=U1ayH6KLqxo)
 
 ### You should be able to
