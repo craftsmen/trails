@@ -4,7 +4,7 @@ Visually communicate a message or action with text, images, and shapes through t
 
 ## Beginning Web Design
 
-* Follow the [Visual Design](visual-design.md) trail map
+* Follow the [Visual Design Principles](visual-principles.md) trail map
 
 ## Intermediate Web Design
 
