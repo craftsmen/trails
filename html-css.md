@@ -4,7 +4,7 @@ HTML is the markup language for displaying web pages and other information that 
 
 ## Beginning HTML & CSS
 
-* Complete [Treehouse's How to Make a Website](teamtreehouse.com/library/how-to-make-a-website)
+* Complete [Treehouse's How to Make a Website](http://teamtreehouse.com/library/how-to-make-a-website)
 
 ### You should be able to
 
