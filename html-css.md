@@ -5,6 +5,7 @@ HTML is the markup language for displaying web pages and other information that 
 ## Beginning HTML & CSS
 
 * Complete [Treehouse's How to Make a Website](http://teamtreehouse.com/library/how-to-make-a-website)
+* Complete [Treehouse's CSS Basics](http://teamtreehouse.com/library/css-basics)
 
 ### You should be able to
 
@@ -21,6 +22,8 @@ HTML is the markup language for displaying web pages and other information that 
 
 * Read [Dive into HTML5](http://diveintohtml5.info)
 * Read [HTML5 for Web Designers](http://www.abookapart.com/products/html5-for-web-designers)
+* Complete [CSS Diner](http://flukeout.github.io/) interactive game to learn CSS
+  selectors.
 
 ### You should be able to
 
