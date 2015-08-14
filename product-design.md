@@ -6,6 +6,7 @@
 * Read Craftsmen's playbook
 * Read 37 Signal's [Getting Real](http://gettingreal.37signals.com)
 * Read 37 Signal's [Rework](http://37signals.com/rework)
+* Read Intercom's book on [Product Management](https://www.intercom.io/books/product-management)
 * Watch [Ryan Singer's UX Sketching and Prototyping screencasts](http://www.pluralsight.com/courses/play-by-play-ryan-singer)
 
 ### You should be able to
