@@ -27,6 +27,7 @@ HTML is the markup language for displaying web pages and other information that 
 * Read [HTML5 for Web Designers](http://www.abookapart.com/products/html5-for-web-designers)
 * Complete [CSS Diner](http://flukeout.github.io/) interactive game to learn CSS
   selectors.
+* Follow the [Beginning Sass](sass.md) trail map
 
 ### You should be able to
 
@@ -42,7 +43,7 @@ HTML is the markup language for displaying web pages and other information that 
 
 ## Advanced HTML & CSS
 
-* Follow the [Sass](sass.md) trail map
+* Read the other chapters from [Dive into HTML5](http://diveintohtml5.info/index.html)
 * Read [Responsive Web Design the article](http://www.alistapart.com/articles/responsive-web-design/)
 * Read [Responsive Web Design the book](http://www.abookapart.com/products/responsive-web-design)
 * Visit [This is Responsive](http://responsive.rga.com) for current news and links about responsive design
