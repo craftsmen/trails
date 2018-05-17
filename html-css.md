@@ -7,8 +7,8 @@ HTML is the markup language for displaying web pages and other information that 
 * Complete [Treehouse's How to Make a Website](http://teamtreehouse.com/library/how-to-make-a-website)
 * Complete [Treehouse's CSS Basics](http://teamtreehouse.com/library/css-basics)
 * Learn [CSS positionning in 10 steps](http://www.barelyfitz.com/screencast/html-training/css/positioning/)
-* Complete [Threehouse's HTML Forms](http://teamtreehouse.com/library/html-forms)
-* Complete [Threehouse's HTML Tables](http://teamtreehouse.com/library/html-tables)
+* Complete [Treehouse's HTML Forms](http://teamtreehouse.com/library/html-forms)
+* Complete [Treehouse's HTML Tables](http://teamtreehouse.com/library/html-tables)
 
 ### You should be able to
 
