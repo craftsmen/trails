@@ -5,7 +5,6 @@ A scripting language that is interpreted into CSS, that provides powerful functi
 ## Beginning Sass
 
 * Read the [Sass Tutorial](http://sass-lang.com/tutorial.html)
-* Read [The Sass way beginner articles](http://thesassway.com/beginner)
 * Read [open source Sass code](https://github.com/thoughtbot/bourbon/tree/master/app/assets/stylesheets)
 
 ### You should be able to
@@ -17,8 +16,7 @@ A scripting language that is interpreted into CSS, that provides powerful functi
 
 ## Intermediate Sass
 
-* Read @HugoGiraudel's [Sass guidelines](http://sass-guidelin.es/)
-* Read [The Sass way intermediate articles](http://thesassway.com/intermediate)
+* Read @KittyGiraudel's [Sass guidelines](https://sass-guidelin.es/)
 
 ### You should be able to
 
@@ -28,4 +26,4 @@ A scripting language that is interpreted into CSS, that provides powerful functi
 ## Ongoing Reference
 
 * [Sass Documentation](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)
-* [Awesome Sass](https://github.com/HugoGiraudel/awesome-sass)
+* [Awesome Sass](https://github.com/KittyGiraudel/awesome-sass)
